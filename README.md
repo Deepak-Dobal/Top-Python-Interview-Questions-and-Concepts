@@ -1,4 +1,4 @@
-#Top Python Interview Questions and Concepts asked in Amazon, Google, Microsoft and Other Top Companies
+# Top Python Interview Questions and Concepts asked in Amazon, Google, Microsoft and Other Top Companies
 Python is one of the most popular programming languages in the world, with a wide range of applications in various fields such as web development, data analysis, artificial intelligence, and more. As a result, many companies around the world have adopted Python as their primary programming language, making it an essential skill for any software developer. In this blog post, we will discuss some of the top Python interview questions and concepts that you should be familiar with when applying for a job in this field.
 ![Yellow and Green Greyscale Basketball Championships UAAPNCAA Facebook Cover](https://user-images.githubusercontent.com/121633990/230335512-3435ada7-4b81-48b5-89a4-73c30b1c264e.png)
 
@@ -18,7 +18,7 @@ Python is one of the most popular programming languages in the world, with a wid
 14-Write a Python program to find all pairs of unique elements in a list whose sum is equal to a given target value  
 15-Write a Python program to check if two strings are anagrams of each other
 
-#Conclusion:
+# Conclusion:
 In conclusion, these are some of the top Python interview questions and concepts that candidates should be familiar with. These questions cover a range of topics, including string manipulation, list manipulation, sorting algorithms, and arithmetic operations. Candidates can prepare for these questions by practising coding exercises and studying Python concepts in-depth.
 
 It’s also worth noting that different companies may place more emphasis on certain topics than others, so candidates should tailor their preparation to the specific companies they are applying to. Overall, mastering these concepts will help candidates stand out in the competitive job market and succeed in Python-related job interviews.
